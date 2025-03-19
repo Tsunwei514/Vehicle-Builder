@@ -34,5 +34,4 @@ Please reach me at tristin.tsun@gmail.com and github.com/Tsunwei514 for any ques
 
 ## Video Link
 
-[![Demo Video]()
-
+[![Demo Video](https://via.placeholder.com/600x300?text=Video+Preview)](https://drive.google.com/file/d/1EjFycnVOz4Hbi960pxnQ0b-JfcglJkjh/view)
